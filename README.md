@@ -1,4 +1,4 @@
-# Project title
+# Project Title
 OSHA Work-Related injuries analysis
 
 # Repository Outline

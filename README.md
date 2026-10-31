@@ -2,9 +2,9 @@
 OSHA Work-Related injuries analysis
 
 # Repository Outline
-`notebook.ipynb` - Main working page, containing data processing & question around the problem  
-`injury_data_raw.csv` - Raw data, still containing missing values / mismatched data type
-`injiry_data_clean.csv` - Cleaned data
+- `notebook.ipynb` - Main working page, containing data processing & question around the problem  
+- `injury_data_raw.csv` - Raw data, still containing missing values / mismatched data type
+- `injury_data_clean.csv` - Cleaned data
 
 # Problem Background
 Work injuries / accident in workplace are one of the unfortunate events that can occur. This could affect employees both physically and mentally, while for business it could do harm in business repution due to negligence in employees safety. With this analysis, business could gain new insights to reduce casualties, and detect a pattern where accident are related to its working field
